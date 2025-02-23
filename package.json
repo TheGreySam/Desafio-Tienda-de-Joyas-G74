@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/TheGreySam/Desafio-Tienda-de-Joyas-G74/issues"
   },
-  "homepage": "https://github.com/TheGreySam/Desafio-Tienda-de-Joyas-G74#readme"
+  "homepage": "https://github.com/TheGreySam/Desafio-Tienda-de-Joyas-G74#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.13.3"
+  }
 }
